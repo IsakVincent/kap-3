@@ -7,7 +7,7 @@ else:
     print('Normal')
 
 
-#det här fungerar också men är mer text och ser sämre ut, har även en högre risk för fail
+#det här fungerar också men är mer text och ser sämre ut, har även en högre risk för fail4mnmrrrrrrrrqwerqwerqwerqwerqwerqwer
 #ring = input('Ringer du 33min,66min eller mer per månad?')
 #if ring == '33min': 
  #   print('Då bör du välja Kontant')
